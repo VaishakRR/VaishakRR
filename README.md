@@ -19,7 +19,7 @@ I’m a Computer Science student with a passion for cybersecurity and software d
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=VaishakRR&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=VaishakRR&repo=Quant--Optimal-Trade-Execution-Almgren-Chriss-Constrained-RL&theme=dark)](https://github.com/VaishakRR/Quant--Optimal-Trade-Execution-Almgren-Chriss-Constrained-RL)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=VaishakRR&icon=0&color=0)](https://visitcount.itsvg.in)
