@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a Computer Science student with a passion for cybersecurity and software development. I enjoy building projects that solve real-world problems and continuously learning new technologies.<br><br>🔭 I’m currently working on: A Monitoring Application and security tools in Python<br>🌱 I’m currently learning: Ethical Hacking & Full Stack Development<br>👯 I’m looking to collaborate on: Open-source security projects<br>💬 Ask me about: Python, Git, DBMS, Ethical Hacking, Threats and anything Tech stuff.<br>📫 How to reach me: vaishakrr97@gmail.com<br>⚡ Fun fact: I can do 100 pushups a day without breaking a sweat 💪
+I’m a Computer Science grdad with a passion for cybersecurity and software development. I enjoy building projects that solve real-world problems and continuously learning new technologies.<br><br>🔭 I’m currently working on: A Monitoring Application and security tools in Python<br>🌱 I’m currently learning: Ethical Hacking & Full Stack Development<br>👯 I’m looking to collaborate on: Open-source security projects<br>💬 Ask me about: Python, Git, DBMS, Ethical Hacking, Threats and anything Tech stuff.<br>📫 How to reach me: vaishakrr97@gmail.com<br>⚡ Fun fact: I can do 100 pushups a day without breaking a sweat 💪
 
 
 ## 🌐 Socials:
